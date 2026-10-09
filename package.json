@@ -1,0 +1,37 @@
+{
+  "name": "bazar-dor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "বাজার দর (BazarDor) - daily essential grocery prices across Bangladesh, built with Next.js, Tailwind CSS, DaisyUI and Better Auth.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --no-warnings --test \"tests/**/*.test.ts\"",
+    "check:api": "node --experimental-strip-types --no-warnings scripts/check-api.mjs",
+    "mock:api": "node scripts/mock-api.mjs",
+    "dev:dns": "node -r ./dns-fix.cjs ./node_modules/next/dist/bin/next dev"
+  },
+  "dependencies": {
+    "@fontsource/hind-siliguri": "^5.3.0",
+    "better-auth": "^1.7.7",
+    "mongodb": "^7.7.0",
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-hot-toast": "^2.6.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "daisyui": "^5.7.47",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}
