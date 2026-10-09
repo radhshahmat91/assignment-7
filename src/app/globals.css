@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+/*
+ * DaisyUI 5 with a single custom theme that mirrors the Figma palette:
+ *   page #f0f5f0 · surface #fafcfa · border #e1e8e1 · text #1d271f · brand #05893e
+ *   price up ▲ #d03739 (red) · price down ▼ #1a9951 (green)
+ */
+@plugin "daisyui" {
+  themes: false;
+  logs: false;
+}
+
+@plugin "daisyui/theme" {
+  name: "bazardor";
+  default: true;
+  prefersdark: false;
+  color-scheme: light;
+
+  --color-base-100: #fafcfa;
+  --color-base-200: #f0f5f0;
+  --color-base-300: #e1e8e1;
+  --color-base-content: #1d271f;
+
+  --color-primary: #05893e;
+  --color-primary-content: #f3fbf4;
+  --color-secondary: #1d271f;
+  --color-secondary-content: #f0f5f0;
+  --color-accent: #1a9951;
+  --color-accent-content: #f3fbf4;
+  --color-neutral: #1d271f;
+  --color-neutral-content: #f0f5f0;
+
+  --color-info: #2563eb;
+  --color-info-content: #eff6ff;
+  --color-success: #1a9951;
+  --color-success-content: #f3fbf4;
+  --color-warning: #d97706;
+  --color-warning-content: #fffbeb;
+  --color-error: #d03739;
+  --color-error-content: #fff5f5;
+
+  --radius-selector: 1rem;
+  --radius-field: 0.5rem;
+  --radius-box: 1rem;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+  --border: 1px;
+  --depth: 1;
+  --noise: 0;
+}
+
+@theme {
+  --font-sans: "Hind Siliguri", "Noto Sans Bengali", ui-sans-serif, system-ui, "Segoe UI",
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+  --color-rise: #d03739;
+  --color-fall: #1a9951;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    min-height: 100dvh;
+    background-color: var(--color-base-200);
+    color: var(--color-base-content);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  /* anchors (e.g. #সব-পণ্য) must clear the sticky header */
+  [id] {
+    scroll-margin-top: 8.5rem;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+/* ── price ticker (marquee) ─────────────────────────────────── */
+@keyframes bazar-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.marquee {
+  overflow: hidden;
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: bazar-marquee var(--marquee-duration, 120s) linear infinite;
+  will-change: transform;
+}
+
+.marquee:hover .marquee-track,
+.marquee:focus-within .marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee {
+    overflow-x: auto;
+  }
+  .marquee-track {
+    animation: none;
+  }
+  .marquee-track [data-marquee-clone] {
+    display: none;
+  }
+  .skeleton {
+    animation: none;
+  }
+}
+
+/* horizontally scrollable rows without a visible scrollbar (category chips) */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
