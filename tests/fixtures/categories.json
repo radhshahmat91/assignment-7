@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "chal",
+  "name": "চাল",
+  "emoji": "🍚"
+ },
+ {
+  "slug": "dal",
+  "name": "ডাল",
+  "emoji": "🫘"
+ },
+ {
+  "slug": "tel",
+  "name": "তেল",
+  "emoji": "🛢️"
+ },
+ {
+  "slug": "sobji",
+  "name": "সবজি",
+  "emoji": "🥬"
+ },
+ {
+  "slug": "mach",
+  "name": "মাছ",
+  "emoji": "🐟"
+ },
+ {
+  "slug": "mangsho",
+  "name": "মাংস",
+  "emoji": "🍗"
+ },
+ {
+  "slug": "dim-dudh",
+  "name": "ডিম-দুধ",
+  "emoji": "🥛"
+ },
+ {
+  "slug": "moshla",
+  "name": "মসলা",
+  "emoji": "🌶️"
+ }
+]

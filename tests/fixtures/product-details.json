@@ -1,0 +1,3368 @@
+{
+ "1": {
+  "id": 1,
+  "name": "স্বর্ণমাছি চাল",
+  "category": "chal",
+  "emoji": "🍚",
+  "unit": "কেজি",
+  "price": 148,
+  "yesterdayPrice": 145,
+  "change": 3,
+  "changePercent": 2.1,
+  "trend": "up",
+  "minPrice": 137,
+  "maxPrice": 161,
+  "avgPrice": 149,
+  "description": "আজ ১২টি বাজারে স্বর্ণমাছি চাল-এর গড় দাম প্রতি কেজি ১৪৮ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 137,
+    "max": 152,
+    "avg": 144.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 139,
+    "max": 151,
+    "avg": 145
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 139,
+    "max": 153,
+    "avg": 146
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 141,
+    "max": 155,
+    "avg": 148
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 140,
+    "max": 153,
+    "avg": 146.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 143,
+    "max": 155,
+    "avg": 149
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 143,
+    "max": 155,
+    "avg": 149
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 143,
+    "max": 158,
+    "avg": 150.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 143,
+    "max": 160,
+    "avg": 151.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 146,
+    "max": 158,
+    "avg": 152
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 144,
+    "max": 161,
+    "avg": 152.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 148,
+    "max": 161,
+    "avg": 154.5
+   }
+  ]
+ },
+ "2": {
+  "id": 2,
+  "name": "মিনিকেট চাল",
+  "category": "chal",
+  "emoji": "🍚",
+  "unit": "কেজি",
+  "price": 99,
+  "yesterdayPrice": 102,
+  "change": 3,
+  "changePercent": 2.9,
+  "trend": "down",
+  "minPrice": 92,
+  "maxPrice": 108,
+  "avgPrice": 100,
+  "description": "আজ ১২টি বাজারে মিনিকেট চাল-এর গড় দাম প্রতি কেজি ৯৯ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 93,
+    "max": 102,
+    "avg": 97.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 92,
+    "max": 101,
+    "avg": 96.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 94,
+    "max": 103,
+    "avg": 98.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 94,
+    "max": 102,
+    "avg": 98
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 94,
+    "max": 104,
+    "avg": 99
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 95,
+    "max": 103,
+    "avg": 99
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 95,
+    "max": 105,
+    "avg": 100
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 96,
+    "max": 106,
+    "avg": 101
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 97,
+    "max": 106,
+    "avg": 101.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 97,
+    "max": 106,
+    "avg": 101.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 97,
+    "max": 106,
+    "avg": 101.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 98,
+    "max": 108,
+    "avg": 103
+   }
+  ]
+ },
+ "3": {
+  "id": 3,
+  "name": "নাজির চাল",
+  "category": "chal",
+  "emoji": "🍚",
+  "unit": "কেজি",
+  "price": 74,
+  "yesterdayPrice": 74,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 68,
+  "maxPrice": 81,
+  "avgPrice": 74.5,
+  "description": "আজ ১২টি বাজারে নাজির চাল-এর গড় দাম প্রতি কেজি ৭৪ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 68,
+    "max": 76,
+    "avg": 72
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 69,
+    "max": 76,
+    "avg": 72.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 70,
+    "max": 76,
+    "avg": 73
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 69,
+    "max": 77,
+    "avg": 73
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 70,
+    "max": 77,
+    "avg": 73.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 72,
+    "max": 78,
+    "avg": 75
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 72,
+    "max": 78,
+    "avg": 75
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 72,
+    "max": 78,
+    "avg": 75
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 72,
+    "max": 80,
+    "avg": 76
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 72,
+    "max": 80,
+    "avg": 76
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 73,
+    "max": 80,
+    "avg": 76.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 74,
+    "max": 81,
+    "avg": 77.5
+   }
+  ]
+ },
+ "4": {
+  "id": 4,
+  "name": "বাটাম সাইজ চাল",
+  "category": "chal",
+  "emoji": "🍚",
+  "unit": "কেজি",
+  "price": 66,
+  "yesterdayPrice": 64,
+  "change": 2,
+  "changePercent": 3.1,
+  "trend": "up",
+  "minPrice": 59,
+  "maxPrice": 73,
+  "avgPrice": 66,
+  "description": "আজ ১২টি বাজারে বাটাম সাইজ চাল-এর গড় দাম প্রতি কেজি ৬৬ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 59,
+    "max": 65,
+    "avg": 62
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 60,
+    "max": 66,
+    "avg": 63
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 60,
+    "max": 67,
+    "avg": 63.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 60,
+    "max": 68,
+    "avg": 64
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 60,
+    "max": 69,
+    "avg": 64.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 61,
+    "max": 69,
+    "avg": 65
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 62,
+    "max": 69,
+    "avg": 65.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 63,
+    "max": 71,
+    "avg": 67
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 64,
+    "max": 71,
+    "avg": 67.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 63,
+    "max": 73,
+    "avg": 68
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 64,
+    "max": 73,
+    "avg": 68.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 65,
+    "max": 73,
+    "avg": 69
+   }
+  ]
+ },
+ "5": {
+  "id": 5,
+  "name": "মসুর ডাল",
+  "category": "dal",
+  "emoji": "🫘",
+  "unit": "কেজি",
+  "price": 142,
+  "yesterdayPrice": 138,
+  "change": 4,
+  "changePercent": 2.9,
+  "trend": "up",
+  "minPrice": 132,
+  "maxPrice": 154,
+  "avgPrice": 143,
+  "description": "আজ ১২টি বাজারে মসুর ডাল-এর গড় দাম প্রতি কেজি ১৪২ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 132,
+    "max": 146,
+    "avg": 139
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 134,
+    "max": 147,
+    "avg": 140.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 134,
+    "max": 148,
+    "avg": 141
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 133,
+    "max": 147,
+    "avg": 140
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 136,
+    "max": 149,
+    "avg": 142.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 137,
+    "max": 148,
+    "avg": 142.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 137,
+    "max": 150,
+    "avg": 143.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 138,
+    "max": 151,
+    "avg": 144.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 137,
+    "max": 151,
+    "avg": 144
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 138,
+    "max": 154,
+    "avg": 146
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 141,
+    "max": 153,
+    "avg": 147
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 141,
+    "max": 154,
+    "avg": 147.5
+   }
+  ]
+ },
+ "6": {
+  "id": 6,
+  "name": "মুগ ডাল",
+  "category": "dal",
+  "emoji": "🫘",
+  "unit": "কেজি",
+  "price": 135,
+  "yesterdayPrice": 135,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 126,
+  "maxPrice": 147,
+  "avgPrice": 136.5,
+  "description": "আজ ১২টি বাজারে মুগ ডাল-এর গড় দাম প্রতি কেজি ১৩৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 126,
+    "max": 139,
+    "avg": 132.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 126,
+    "max": 138,
+    "avg": 132
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 126,
+    "max": 140,
+    "avg": 133
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 128,
+    "max": 141,
+    "avg": 134.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 128,
+    "max": 142,
+    "avg": 135
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 129,
+    "max": 143,
+    "avg": 136
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 131,
+    "max": 143,
+    "avg": 137
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 131,
+    "max": 144,
+    "avg": 137.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 131,
+    "max": 145,
+    "avg": 138
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 133,
+    "max": 145,
+    "avg": 139
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 134,
+    "max": 147,
+    "avg": 140.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 135,
+    "max": 147,
+    "avg": 141
+   }
+  ]
+ },
+ "7": {
+  "id": 7,
+  "name": "ছোলা",
+  "category": "dal",
+  "emoji": "🫘",
+  "unit": "কেজি",
+  "price": 120,
+  "yesterdayPrice": 123,
+  "change": 3,
+  "changePercent": 2.4,
+  "trend": "down",
+  "minPrice": 111,
+  "maxPrice": 130,
+  "avgPrice": 120.5,
+  "description": "আজ ১২টি বাজারে ছোলা-এর গড় দাম প্রতি কেজি ১২০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 111,
+    "max": 122,
+    "avg": 116.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 113,
+    "max": 122,
+    "avg": 117.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 113,
+    "max": 124,
+    "avg": 118.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 113,
+    "max": 125,
+    "avg": 119
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 113,
+    "max": 125,
+    "avg": 119
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 114,
+    "max": 125,
+    "avg": 119.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 115,
+    "max": 128,
+    "avg": 121.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 115,
+    "max": 127,
+    "avg": 121
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 117,
+    "max": 130,
+    "avg": 123.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 118,
+    "max": 129,
+    "avg": 123.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 119,
+    "max": 129,
+    "avg": 124
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 120,
+    "max": 130,
+    "avg": 125
+   }
+  ]
+ },
+ "8": {
+  "id": 8,
+  "name": "আমন ডাল (খোসাসিলা)",
+  "category": "dal",
+  "emoji": "🫘",
+  "unit": "কেজি",
+  "price": 156,
+  "yesterdayPrice": 152,
+  "change": 4,
+  "changePercent": 2.6,
+  "trend": "up",
+  "minPrice": 144,
+  "maxPrice": 172,
+  "avgPrice": 158,
+  "description": "আজ ১২টি বাজারে আমন ডাল (খোসাসিলা)-এর গড় দাম প্রতি কেজি ১৫৬ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 144,
+    "max": 161,
+    "avg": 152.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 145,
+    "max": 161,
+    "avg": 153
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 145,
+    "max": 160,
+    "avg": 152.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 149,
+    "max": 161,
+    "avg": 155
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 149,
+    "max": 163,
+    "avg": 156
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 149,
+    "max": 164,
+    "avg": 156.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 149,
+    "max": 166,
+    "avg": 157.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 150,
+    "max": 165,
+    "avg": 157.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 150,
+    "max": 166,
+    "avg": 158
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 152,
+    "max": 169,
+    "avg": 160.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 153,
+    "max": 168,
+    "avg": 160.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 154,
+    "max": 172,
+    "avg": 163
+   }
+  ]
+ },
+ "9": {
+  "id": 9,
+  "name": "সরিষার তেল",
+  "category": "tel",
+  "emoji": "🫙",
+  "unit": "লিটার",
+  "price": 192,
+  "yesterdayPrice": 188,
+  "change": 4,
+  "changePercent": 2.1,
+  "trend": "up",
+  "minPrice": 178,
+  "maxPrice": 210,
+  "avgPrice": 194,
+  "description": "আজ ১২টি বাজারে সরিষার তেল-এর গড় দাম প্রতি লিটার ১৯২ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 178,
+    "max": 195,
+    "avg": 186.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 178,
+    "max": 198,
+    "avg": 188
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 179,
+    "max": 198,
+    "avg": 188.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 183,
+    "max": 198,
+    "avg": 190.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 183,
+    "max": 201,
+    "avg": 192
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 182,
+    "max": 201,
+    "avg": 191.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 186,
+    "max": 203,
+    "avg": 194.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 187,
+    "max": 203,
+    "avg": 195
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 186,
+    "max": 204,
+    "avg": 195
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 188,
+    "max": 208,
+    "avg": 198
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 189,
+    "max": 209,
+    "avg": 199
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 190,
+    "max": 210,
+    "avg": 200
+   }
+  ]
+ },
+ "10": {
+  "id": 10,
+  "name": "পাম তেল",
+  "category": "tel",
+  "emoji": "🛢️",
+  "unit": "কেজি",
+  "price": 168,
+  "yesterdayPrice": 172,
+  "change": 4,
+  "changePercent": 2.3,
+  "trend": "down",
+  "minPrice": 156,
+  "maxPrice": 184,
+  "avgPrice": 170,
+  "description": "আজ ১২টি বাজারে পাম তেল-এর গড় দাম প্রতি কেজি ১৬৮ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 156,
+    "max": 171,
+    "avg": 163.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 157,
+    "max": 171,
+    "avg": 164
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 159,
+    "max": 175,
+    "avg": 167
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 160,
+    "max": 173,
+    "avg": 166.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 160,
+    "max": 175,
+    "avg": 167.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 160,
+    "max": 178,
+    "avg": 169
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 163,
+    "max": 176,
+    "avg": 169.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 164,
+    "max": 179,
+    "avg": 171.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 163,
+    "max": 179,
+    "avg": 171
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 165,
+    "max": 181,
+    "avg": 173
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 166,
+    "max": 183,
+    "avg": 174.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 165,
+    "max": 184,
+    "avg": 174.5
+   }
+  ]
+ },
+ "11": {
+  "id": 11,
+  "name": "ঘানি ভাঙা সরিষার তেল",
+  "category": "tel",
+  "emoji": "🫙",
+  "unit": "লিটার",
+  "price": 215,
+  "yesterdayPrice": 210,
+  "change": 5,
+  "changePercent": 2.4,
+  "trend": "up",
+  "minPrice": 200,
+  "maxPrice": 232,
+  "avgPrice": 216,
+  "description": "আজ ১২টি বাজারে ঘানি ভাঙা সরিষার তেল-এর গড় দাম প্রতি লিটার ২১৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 200,
+    "max": 220,
+    "avg": 210
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 203,
+    "max": 221,
+    "avg": 212
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 202,
+    "max": 222,
+    "avg": 212
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 202,
+    "max": 223,
+    "avg": 212.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 205,
+    "max": 226,
+    "avg": 215.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 204,
+    "max": 225,
+    "avg": 214.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 205,
+    "max": 229,
+    "avg": 217
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 209,
+    "max": 227,
+    "avg": 218
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 211,
+    "max": 232,
+    "avg": 221.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 211,
+    "max": 232,
+    "avg": 221.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 210,
+    "max": 231,
+    "avg": 220.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 213,
+    "max": 232,
+    "avg": 222.5
+   }
+  ]
+ },
+ "12": {
+  "id": 12,
+  "name": "আলু",
+  "category": "sobji",
+  "emoji": "🥔",
+  "unit": "কেজি",
+  "price": 30,
+  "yesterdayPrice": 32,
+  "change": 2,
+  "changePercent": 6.2,
+  "trend": "down",
+  "minPrice": 28,
+  "maxPrice": 32,
+  "avgPrice": 30,
+  "description": "আজ ১২টি বাজারে আলু-এর গড় দাম প্রতি কেজি ৩০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 28,
+    "max": 31,
+    "avg": 29.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 28,
+    "max": 31,
+    "avg": 29.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 28,
+    "max": 31,
+    "avg": 29.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 28,
+    "max": 31,
+    "avg": 29.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 29,
+    "max": 31,
+    "avg": 30
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 29,
+    "max": 32,
+    "avg": 30.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 30,
+    "max": 32,
+    "avg": 31
+   }
+  ]
+ },
+ "13": {
+  "id": 13,
+  "name": "পেঁয়াজ",
+  "category": "sobji",
+  "emoji": "🧅",
+  "unit": "কেজি",
+  "price": 54,
+  "yesterdayPrice": 48,
+  "change": 6,
+  "changePercent": 12.5,
+  "trend": "up",
+  "minPrice": 50,
+  "maxPrice": 59,
+  "avgPrice": 54.5,
+  "description": "আজ ১২টি বাজারে পেঁয়াজ-এর গড় দাম প্রতি কেজি ৫৪ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 50,
+    "max": 55,
+    "avg": 52.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 51,
+    "max": 56,
+    "avg": 53.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 50,
+    "max": 55,
+    "avg": 52.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 51,
+    "max": 56,
+    "avg": 53.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 52,
+    "max": 56,
+    "avg": 54
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 52,
+    "max": 56,
+    "avg": 54
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 52,
+    "max": 57,
+    "avg": 54.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 53,
+    "max": 58,
+    "avg": 55.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 52,
+    "max": 58,
+    "avg": 55
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 52,
+    "max": 59,
+    "avg": 55.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 53,
+    "max": 59,
+    "avg": 56
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 54,
+    "max": 59,
+    "avg": 56.5
+   }
+  ]
+ },
+ "14": {
+  "id": 14,
+  "name": "কাঁচামরিচ",
+  "category": "sobji",
+  "emoji": "🌶️",
+  "unit": "কেজি",
+  "price": 92,
+  "yesterdayPrice": 105,
+  "change": 13,
+  "changePercent": 12.4,
+  "trend": "down",
+  "minPrice": 85,
+  "maxPrice": 101,
+  "avgPrice": 93,
+  "description": "আজ ১২টি বাজারে কাঁচামরিচ-এর গড় দাম প্রতি কেজি ৯২ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 85,
+    "max": 94,
+    "avg": 89.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 86,
+    "max": 95,
+    "avg": 90.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 86,
+    "max": 95,
+    "avg": 90.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 87,
+    "max": 96,
+    "avg": 91.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 87,
+    "max": 97,
+    "avg": 92
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 88,
+    "max": 97,
+    "avg": 92.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 88,
+    "max": 97,
+    "avg": 92.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 90,
+    "max": 98,
+    "avg": 94
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 89,
+    "max": 99,
+    "avg": 94
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 90,
+    "max": 98,
+    "avg": 94
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 91,
+    "max": 100,
+    "avg": 95.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 90,
+    "max": 101,
+    "avg": 95.5
+   }
+  ]
+ },
+ "15": {
+  "id": 15,
+  "name": "বেগুন",
+  "category": "sobji",
+  "emoji": "🍆",
+  "unit": "কেজি",
+  "price": 44,
+  "yesterdayPrice": 42,
+  "change": 2,
+  "changePercent": 4.8,
+  "trend": "up",
+  "minPrice": 41,
+  "maxPrice": 48,
+  "avgPrice": 44.5,
+  "description": "আজ ১২টি বাজারে বেগুন-এর গড় দাম প্রতি কেজি ৪৪ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 41,
+    "max": 44,
+    "avg": 42.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 41,
+    "max": 45,
+    "avg": 43
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 42,
+    "max": 45,
+    "avg": 43.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 43,
+    "max": 46,
+    "avg": 44.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 42,
+    "max": 47,
+    "avg": 44.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 43,
+    "max": 47,
+    "avg": 45
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 43,
+    "max": 47,
+    "avg": 45
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 44,
+    "max": 48,
+    "avg": 46
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 43,
+    "max": 48,
+    "avg": 45.5
+   }
+  ]
+ },
+ "16": {
+  "id": 16,
+  "name": "ঢেঁড়স",
+  "category": "sobji",
+  "emoji": "🟢",
+  "unit": "কেজি",
+  "price": 38,
+  "yesterdayPrice": 38,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 35,
+  "maxPrice": 41,
+  "avgPrice": 38,
+  "description": "আজ ১২টি বাজারে ঢেঁড়স-এর গড় দাম প্রতি কেজি ৩৮ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 35,
+    "max": 39,
+    "avg": 37
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 35,
+    "max": 39,
+    "avg": 37
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 36,
+    "max": 39,
+    "avg": 37.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 36,
+    "max": 40,
+    "avg": 38
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 36,
+    "max": 40,
+    "avg": 38
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 36,
+    "max": 40,
+    "avg": 38
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 37,
+    "max": 40,
+    "avg": 38.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 37,
+    "max": 41,
+    "avg": 39
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 37,
+    "max": 41,
+    "avg": 39
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 37,
+    "max": 41,
+    "avg": 39
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 37,
+    "max": 41,
+    "avg": 39
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 38,
+    "max": 41,
+    "avg": 39.5
+   }
+  ]
+ },
+ "17": {
+  "id": 17,
+  "name": "রুই মাছ",
+  "category": "mach",
+  "emoji": "🐟",
+  "unit": "কেজি",
+  "price": 46,
+  "yesterdayPrice": 44,
+  "change": 2,
+  "changePercent": 4.5,
+  "trend": "up",
+  "minPrice": 43,
+  "maxPrice": 50,
+  "avgPrice": 46.5,
+  "description": "আজ ১২টি বাজারে রুই মাছ-এর গড় দাম প্রতি কেজি ৪৬ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 43,
+    "max": 47,
+    "avg": 45
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 43,
+    "max": 47,
+    "avg": 45
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 44,
+    "max": 48,
+    "avg": 46
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 44,
+    "max": 47,
+    "avg": 45.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 43,
+    "max": 48,
+    "avg": 45.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 44,
+    "max": 48,
+    "avg": 46
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 44,
+    "max": 49,
+    "avg": 46.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 45,
+    "max": 49,
+    "avg": 47
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 45,
+    "max": 50,
+    "avg": 47.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 45,
+    "max": 50,
+    "avg": 47.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 46,
+    "max": 50,
+    "avg": 48
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 46,
+    "max": 50,
+    "avg": 48
+   }
+  ]
+ },
+ "18": {
+  "id": 18,
+  "name": "তেলাপিয়া",
+  "category": "mach",
+  "emoji": "🐟",
+  "unit": "কেজি",
+  "price": 36,
+  "yesterdayPrice": 36,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 33,
+  "maxPrice": 39,
+  "avgPrice": 36,
+  "description": "আজ ১২টি বাজারে তেলাপিয়া-এর গড় দাম প্রতি কেজি ৩৬ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 33,
+    "max": 37,
+    "avg": 35
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 34,
+    "max": 37,
+    "avg": 35.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 34,
+    "max": 37,
+    "avg": 35.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 34,
+    "max": 37,
+    "avg": 35.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 34,
+    "max": 37,
+    "avg": 35.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 35,
+    "max": 38,
+    "avg": 36.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 35,
+    "max": 38,
+    "avg": 36.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 35,
+    "max": 39,
+    "avg": 37
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 35,
+    "max": 38,
+    "avg": 36.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 35,
+    "max": 39,
+    "avg": 37
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 35,
+    "max": 39,
+    "avg": 37
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 36,
+    "max": 39,
+    "avg": 37.5
+   }
+  ]
+ },
+ "19": {
+  "id": 19,
+  "name": "ইলিশ মাছ",
+  "category": "mach",
+  "emoji": "🐠",
+  "unit": "কেজি",
+  "price": 1850,
+  "yesterdayPrice": 1789,
+  "change": 61,
+  "changePercent": 3.4,
+  "trend": "up",
+  "minPrice": 1727,
+  "maxPrice": 2013,
+  "avgPrice": 1870,
+  "description": "আজ ১২টি বাজারে ইলিশ মাছ-এর গড় দাম প্রতি কেজি ১৮৫০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 1727,
+    "max": 1898,
+    "avg": 1812.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 1731,
+    "max": 1899,
+    "avg": 1815
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 1737,
+    "max": 1929,
+    "avg": 1833
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 1743,
+    "max": 1909,
+    "avg": 1826
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 1752,
+    "max": 1925,
+    "avg": 1838.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 1765,
+    "max": 1937,
+    "avg": 1851
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 1767,
+    "max": 1951,
+    "avg": 1859
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 1784,
+    "max": 1972,
+    "avg": 1878
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 1790,
+    "max": 1965,
+    "avg": 1877.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 1800,
+    "max": 1995,
+    "avg": 1897.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 1817,
+    "max": 2013,
+    "avg": 1915
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 1843,
+    "max": 2013,
+    "avg": 1928
+   }
+  ]
+ },
+ "20": {
+  "id": 20,
+  "name": "কাতলা মাছ",
+  "category": "mach",
+  "emoji": "🐠",
+  "unit": "কেজি",
+  "price": 43,
+  "yesterdayPrice": 45,
+  "change": 2,
+  "changePercent": 4.4,
+  "trend": "down",
+  "minPrice": 40,
+  "maxPrice": 47,
+  "avgPrice": 43.5,
+  "description": "আজ ১২টি বাজারে কাতলা মাছ-এর গড় দাম প্রতি কেজি ৪৩ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 40,
+    "max": 44,
+    "avg": 42
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 40,
+    "max": 44,
+    "avg": 42
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 40,
+    "max": 45,
+    "avg": 42.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 41,
+    "max": 45,
+    "avg": 43
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 41,
+    "max": 45,
+    "avg": 43
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 41,
+    "max": 46,
+    "avg": 43.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 41,
+    "max": 45,
+    "avg": 43
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 42,
+    "max": 46,
+    "avg": 44
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 42,
+    "max": 47,
+    "avg": 44.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 43,
+    "max": 47,
+    "avg": 45
+   }
+  ]
+ },
+ "21": {
+  "id": 21,
+  "name": "চিংড়ি মাছ (খোলা)",
+  "category": "mach",
+  "emoji": "🦐",
+  "unit": "কেজি",
+  "price": 330,
+  "yesterdayPrice": 320,
+  "change": 10,
+  "changePercent": 3.1,
+  "trend": "up",
+  "minPrice": 305,
+  "maxPrice": 359,
+  "avgPrice": 332,
+  "description": "আজ ১২টি বাজারে চিংড়ি মাছ (খোলা)-এর গড় দাম প্রতি কেজি ৩৩০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 305,
+    "max": 338,
+    "avg": 321.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 310,
+    "max": 339,
+    "avg": 324.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 309,
+    "max": 343,
+    "avg": 326
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 314,
+    "max": 343,
+    "avg": 328.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 314,
+    "max": 343,
+    "avg": 328.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 313,
+    "max": 346,
+    "avg": 329.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 318,
+    "max": 346,
+    "avg": 332
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 321,
+    "max": 350,
+    "avg": 335.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 320,
+    "max": 350,
+    "avg": 335
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 326,
+    "max": 357,
+    "avg": 341.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 327,
+    "max": 358,
+    "avg": 342.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 324,
+    "max": 359,
+    "avg": 341.5
+   }
+  ]
+ },
+ "22": {
+  "id": 22,
+  "name": "মুরগির মাংস",
+  "category": "mangsho",
+  "emoji": "🍗",
+  "unit": "কেজি",
+  "price": 225,
+  "yesterdayPrice": 228,
+  "change": 3,
+  "changePercent": 1.3,
+  "trend": "down",
+  "minPrice": 208,
+  "maxPrice": 246,
+  "avgPrice": 227,
+  "description": "আজ ১২টি বাজারে মুরগির মাংস-এর গড় দাম প্রতি কেজি ২২৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 211,
+    "max": 228,
+    "avg": 219.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 208,
+    "max": 233,
+    "avg": 220.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 210,
+    "max": 231,
+    "avg": 220.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 214,
+    "max": 233,
+    "avg": 223.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 216,
+    "max": 234,
+    "avg": 225
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 217,
+    "max": 236,
+    "avg": 226.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 217,
+    "max": 240,
+    "avg": 228.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 219,
+    "max": 241,
+    "avg": 230
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 220,
+    "max": 239,
+    "avg": 229.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 222,
+    "max": 243,
+    "avg": 232.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 221,
+    "max": 242,
+    "avg": 231.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 224,
+    "max": 246,
+    "avg": 235
+   }
+  ]
+ },
+ "23": {
+  "id": 23,
+  "name": "গরুর মাংস",
+  "category": "mangsho",
+  "emoji": "🥩",
+  "unit": "কেজি",
+  "price": 790,
+  "yesterdayPrice": 800,
+  "change": 10,
+  "changePercent": 1.2,
+  "trend": "down",
+  "minPrice": 741,
+  "maxPrice": 863,
+  "avgPrice": 802,
+  "description": "আজ ১২টি বাজারে গরুর মাংস-এর গড় দাম প্রতি কেজি ৭৯০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 741,
+    "max": 813,
+    "avg": 777
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 745,
+    "max": 804,
+    "avg": 774.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 745,
+    "max": 815,
+    "avg": 780
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 748,
+    "max": 815,
+    "avg": 781.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 747,
+    "max": 825,
+    "avg": 786
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 752,
+    "max": 830,
+    "avg": 791
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 753,
+    "max": 829,
+    "avg": 791
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 768,
+    "max": 840,
+    "avg": 804
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 769,
+    "max": 850,
+    "avg": 809.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 771,
+    "max": 844,
+    "avg": 807.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 782,
+    "max": 857,
+    "avg": 819.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 785,
+    "max": 863,
+    "avg": 824
+   }
+  ]
+ },
+ "24": {
+  "id": 24,
+  "name": "খাসির মাংস",
+  "category": "mangsho",
+  "emoji": "🍖",
+  "unit": "কেজি",
+  "price": 1290,
+  "yesterdayPrice": 1330,
+  "change": 40,
+  "changePercent": 3.0,
+  "trend": "down",
+  "minPrice": 1199,
+  "maxPrice": 1413,
+  "avgPrice": 1306,
+  "description": "আজ ১২টি বাজারে খাসির মাংস-এর গড় দাম প্রতি কেজি ১২৯০ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 1205,
+    "max": 1325,
+    "avg": 1265
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 1199,
+    "max": 1337,
+    "avg": 1268
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 1206,
+    "max": 1337,
+    "avg": 1271.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 1210,
+    "max": 1347,
+    "avg": 1278.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 1219,
+    "max": 1354,
+    "avg": 1286.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 1241,
+    "max": 1364,
+    "avg": 1302.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 1240,
+    "max": 1374,
+    "avg": 1307
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 1262,
+    "max": 1363,
+    "avg": 1312.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 1256,
+    "max": 1393,
+    "avg": 1324.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 1269,
+    "max": 1388,
+    "avg": 1328.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 1265,
+    "max": 1410,
+    "avg": 1337.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 1266,
+    "max": 1413,
+    "avg": 1339.5
+   }
+  ]
+ },
+ "25": {
+  "id": 25,
+  "name": "হাঁসের মাংস",
+  "category": "mangsho",
+  "emoji": "🦆",
+  "unit": "কেজি",
+  "price": 285,
+  "yesterdayPrice": 295,
+  "change": 10,
+  "changePercent": 3.4,
+  "trend": "down",
+  "minPrice": 264,
+  "maxPrice": 313,
+  "avgPrice": 288.5,
+  "description": "আজ ১২টি বাজারে হাঁসের মাংস-এর গড় দাম প্রতি কেজি ২৮৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 264,
+    "max": 293,
+    "avg": 278.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 269,
+    "max": 291,
+    "avg": 280
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 270,
+    "max": 295,
+    "avg": 282.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 267,
+    "max": 299,
+    "avg": 283
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 270,
+    "max": 297,
+    "avg": 283.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 272,
+    "max": 300,
+    "avg": 286
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 272,
+    "max": 303,
+    "avg": 287.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 278,
+    "max": 303,
+    "avg": 290.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 279,
+    "max": 306,
+    "avg": 292.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 281,
+    "max": 305,
+    "avg": 293
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 280,
+    "max": 309,
+    "avg": 294.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 280,
+    "max": 313,
+    "avg": 296.5
+   }
+  ]
+ },
+ "26": {
+  "id": 26,
+  "name": "ডিম",
+  "category": "dim-dudh",
+  "emoji": "🥚",
+  "unit": "ডজন",
+  "price": 158,
+  "yesterdayPrice": 152,
+  "change": 6,
+  "changePercent": 3.9,
+  "trend": "up",
+  "minPrice": 147,
+  "maxPrice": 174,
+  "avgPrice": 160.5,
+  "description": "আজ ১২টি বাজারে ডিম-এর গড় দাম প্রতি ডজন ১৫৮ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 148,
+    "max": 160,
+    "avg": 154
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 147,
+    "max": 162,
+    "avg": 154.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 147,
+    "max": 164,
+    "avg": 155.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 150,
+    "max": 163,
+    "avg": 156.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 151,
+    "max": 165,
+    "avg": 158
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 152,
+    "max": 168,
+    "avg": 160
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 154,
+    "max": 167,
+    "avg": 160.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 154,
+    "max": 169,
+    "avg": 161.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 155,
+    "max": 168,
+    "avg": 161.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 156,
+    "max": 169,
+    "avg": 162.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 154,
+    "max": 172,
+    "avg": 163
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 157,
+    "max": 174,
+    "avg": 165.5
+   }
+  ]
+ },
+ "27": {
+  "id": 27,
+  "name": "দুধ",
+  "category": "dim-dudh",
+  "emoji": "🥛",
+  "unit": "লিটার",
+  "price": 102,
+  "yesterdayPrice": 100,
+  "change": 2,
+  "changePercent": 2.0,
+  "trend": "up",
+  "minPrice": 95,
+  "maxPrice": 111,
+  "avgPrice": 103,
+  "description": "আজ ১২টি বাজারে দুধ-এর গড় দাম প্রতি লিটার ১০২ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 95,
+    "max": 104,
+    "avg": 99.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 96,
+    "max": 104,
+    "avg": 100
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 95,
+    "max": 106,
+    "avg": 100.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 96,
+    "max": 106,
+    "avg": 101
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 98,
+    "max": 106,
+    "avg": 102
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 98,
+    "max": 107,
+    "avg": 102.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 97,
+    "max": 109,
+    "avg": 103
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 99,
+    "max": 108,
+    "avg": 103.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 100,
+    "max": 110,
+    "avg": 105
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 100,
+    "max": 110,
+    "avg": 105
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 101,
+    "max": 110,
+    "avg": 105.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 102,
+    "max": 111,
+    "avg": 106.5
+   }
+  ]
+ },
+ "28": {
+  "id": 28,
+  "name": "দই",
+  "category": "dim-dudh",
+  "emoji": "🥣",
+  "unit": "লিটার",
+  "price": 92,
+  "yesterdayPrice": 92,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 85,
+  "maxPrice": 100,
+  "avgPrice": 92.5,
+  "description": "আজ ১২টি বাজারে দই-এর গড় দাম প্রতি লিটার ৯২ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 85,
+    "max": 93,
+    "avg": 89
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 86,
+    "max": 94,
+    "avg": 90
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 86,
+    "max": 95,
+    "avg": 90.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 87,
+    "max": 95,
+    "avg": 91
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 87,
+    "max": 97,
+    "avg": 92
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 87,
+    "max": 96,
+    "avg": 91.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 88,
+    "max": 97,
+    "avg": 92.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 88,
+    "max": 99,
+    "avg": 93.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 89,
+    "max": 99,
+    "avg": 94
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 89,
+    "max": 100,
+    "avg": 94.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 91,
+    "max": 100,
+    "avg": 95.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 91,
+    "max": 100,
+    "avg": 95.5
+   }
+  ]
+ },
+ "29": {
+  "id": 29,
+  "name": "মাখন (১০০ গ্রাম)",
+  "category": "dim-dudh",
+  "emoji": "🧈",
+  "unit": "পিস",
+  "price": 145,
+  "yesterdayPrice": 140,
+  "change": 5,
+  "changePercent": 3.6,
+  "trend": "up",
+  "minPrice": 135,
+  "maxPrice": 158,
+  "avgPrice": 146.5,
+  "description": "আজ ১২টি বাজারে মাখন (১০০ গ্রাম)-এর গড় দাম প্রতি পিস ১৪৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 135,
+    "max": 147,
+    "avg": 141
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 137,
+    "max": 148,
+    "avg": 142.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 136,
+    "max": 149,
+    "avg": 142.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 137,
+    "max": 152,
+    "avg": 144.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 137,
+    "max": 151,
+    "avg": 144
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 138,
+    "max": 152,
+    "avg": 145
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 141,
+    "max": 153,
+    "avg": 147
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 141,
+    "max": 154,
+    "avg": 147.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 142,
+    "max": 155,
+    "avg": 148.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 141,
+    "max": 156,
+    "avg": 148.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 142,
+    "max": 158,
+    "avg": 150
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 144,
+    "max": 157,
+    "avg": 150.5
+   }
+  ]
+ },
+ "30": {
+  "id": 30,
+  "name": "আদা",
+  "category": "moshla",
+  "emoji": "🫚",
+  "unit": "কেজি",
+  "price": 85,
+  "yesterdayPrice": 78,
+  "change": 7,
+  "changePercent": 9.0,
+  "trend": "up",
+  "minPrice": 79,
+  "maxPrice": 93,
+  "avgPrice": 86,
+  "description": "আজ ১২টি বাজারে আদা-এর গড় দাম প্রতি কেজি ৮৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 79,
+    "max": 86,
+    "avg": 82.5
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 79,
+    "max": 88,
+    "avg": 83.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 79,
+    "max": 87,
+    "avg": 83
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 80,
+    "max": 89,
+    "avg": 84.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 82,
+    "max": 89,
+    "avg": 85.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 82,
+    "max": 90,
+    "avg": 86
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 81,
+    "max": 89,
+    "avg": 85
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 82,
+    "max": 91,
+    "avg": 86.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 83,
+    "max": 92,
+    "avg": 87.5
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 84,
+    "max": 92,
+    "avg": 88
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 84,
+    "max": 91,
+    "avg": 87.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 83,
+    "max": 93,
+    "avg": 88
+   }
+  ]
+ },
+ "31": {
+  "id": 31,
+  "name": "রসুন",
+  "category": "moshla",
+  "emoji": "🧄",
+  "unit": "কেজি",
+  "price": 125,
+  "yesterdayPrice": 135,
+  "change": 10,
+  "changePercent": 7.4,
+  "trend": "down",
+  "minPrice": 115,
+  "maxPrice": 137,
+  "avgPrice": 126,
+  "description": "আজ ১২টি বাজারে রসুন-এর গড় দাম প্রতি কেজি ১২৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 115,
+    "max": 127,
+    "avg": 121
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 117,
+    "max": 129,
+    "avg": 123
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 117,
+    "max": 128,
+    "avg": 122.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 118,
+    "max": 131,
+    "avg": 124.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 118,
+    "max": 131,
+    "avg": 124.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 120,
+    "max": 131,
+    "avg": 125.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 120,
+    "max": 132,
+    "avg": 126
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 121,
+    "max": 134,
+    "avg": 127.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 121,
+    "max": 133,
+    "avg": 127
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 123,
+    "max": 134,
+    "avg": 128.5
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 122,
+    "max": 135,
+    "avg": 128.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 123,
+    "max": 137,
+    "avg": 130
+   }
+  ]
+ },
+ "32": {
+  "id": 32,
+  "name": "মরিচ গুঁড়া",
+  "category": "moshla",
+  "emoji": "🌶️",
+  "unit": "কেজি",
+  "price": 245,
+  "yesterdayPrice": 250,
+  "change": 5,
+  "changePercent": 2.0,
+  "trend": "down",
+  "minPrice": 226,
+  "maxPrice": 266,
+  "avgPrice": 246,
+  "description": "আজ ১২টি বাজারে মরিচ গুঁড়া-এর গড় দাম প্রতি কেজি ২৪৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 226,
+    "max": 248,
+    "avg": 237
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 228,
+    "max": 253,
+    "avg": 240.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 231,
+    "max": 254,
+    "avg": 242.5
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 230,
+    "max": 255,
+    "avg": 242.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 235,
+    "max": 256,
+    "avg": 245.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 237,
+    "max": 260,
+    "avg": 248.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 235,
+    "max": 257,
+    "avg": 246
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 238,
+    "max": 259,
+    "avg": 248.5
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 236,
+    "max": 264,
+    "avg": 250
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 242,
+    "max": 266,
+    "avg": 254
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 243,
+    "max": 264,
+    "avg": 253.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 240,
+    "max": 265,
+    "avg": 252.5
+   }
+  ]
+ },
+ "33": {
+  "id": 33,
+  "name": "ধনেপাতা গুঁড়া",
+  "category": "moshla",
+  "emoji": "🍃",
+  "unit": "কেজি",
+  "price": 265,
+  "yesterdayPrice": 265,
+  "change": 0,
+  "changePercent": 0.0,
+  "trend": "flat",
+  "minPrice": 247,
+  "maxPrice": 291,
+  "avgPrice": 269,
+  "description": "আজ ১২টি বাজারে ধনেপাতা গুঁড়া-এর গড় দাম প্রতি কেজি ২৬৫ টাকা।",
+  "markets": [
+   {
+    "market": "মাঠ বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 247,
+    "max": 271,
+    "avg": 259
+   },
+   {
+    "market": "সদর বাজার",
+    "division": "রাজশাহী",
+    "min": 250,
+    "max": 271,
+    "avg": 260.5
+   },
+   {
+    "market": "বাজারহাট",
+    "division": "খুলনা",
+    "min": 250,
+    "max": 276,
+    "avg": 263
+   },
+   {
+    "market": "বাসারহাট বাজার",
+    "division": "রাজশাহী",
+    "min": 253,
+    "max": 274,
+    "avg": 263.5
+   },
+   {
+    "market": "চৌর বাজার",
+    "division": "ময়মনসিংহ",
+    "min": 253,
+    "max": 278,
+    "avg": 265.5
+   },
+   {
+    "market": "আমতলী বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 254,
+    "max": 281,
+    "avg": 267.5
+   },
+   {
+    "market": "ডবলগেট বাজার",
+    "division": "খুলনা",
+    "min": 255,
+    "max": 280,
+    "avg": 267.5
+   },
+   {
+    "market": "চৌরাস্তা বাজার",
+    "division": "সিলেট",
+    "min": 259,
+    "max": 283,
+    "avg": 271
+   },
+   {
+    "market": "গ্রীন মার্কেট, মিরপুর",
+    "division": "ঢাকা",
+    "min": 257,
+    "max": 283,
+    "avg": 270
+   },
+   {
+    "market": "চৌদগ্রাম বাজার",
+    "division": "চট্টগ্রাম",
+    "min": 259,
+    "max": 283,
+    "avg": 271
+   },
+   {
+    "market": "আমবাজার",
+    "division": "সিলেট",
+    "min": 261,
+    "max": 288,
+    "avg": 274.5
+   },
+   {
+    "market": "কারওয়ান বাজার",
+    "division": "ঢাকা",
+    "min": 262,
+    "max": 291,
+    "avg": 276.5
+   }
+  ]
+ }
+}
