@@ -5,7 +5,7 @@
 **আজকের নিত্যপ্রয়োজনীয় পণ্যের বাজারদর — এক নজরে।**<br />
 A daily grocery-price tracker for Bangladesh: today's prices, ▲/▼ changes, category pages and market-by-market tables.
 
-[Live demo](https://your-project.vercel.app) · [Figma / Penpot design](./design) · [Report an issue](../../issues)
+[Live demo](https://assignment-7-radh1.vercel.app) 
 
 ![BazarDor home page](./docs/screenshots/home.jpg)
 
